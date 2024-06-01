@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "899377732342",
+    "project_id": "envifund-9743b",
+    "storage_bucket": "envifund-9743b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899377732342:android:2a7df7eb4225605811aad7",
+        "android_client_info": {
+          "package_name": "com.example.envifund_moblie_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899377732342-2hh1d3t30hfdi4i8u575gfil55ecra29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRVvWhqDFrsEQn-CvjKaJlolMuAi3iEqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899377732342-2hh1d3t30hfdi4i8u575gfil55ecra29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899377732342-oiciq0e24qb51ubsdbve4barja8lkc92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.envifundMoblieApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
